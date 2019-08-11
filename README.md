@@ -79,7 +79,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## Miscellaneous
-+ Learn Flask or Django and make a complete project ---> deploy in on the web
-
+## Deploying/Shipping Projects:
++ [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
++ Misc: Learn/Read about Flask or Django, Jinja2, Gunicorn3, Nginx, Apache Tomcat/HTTP servers, WAMP, AWS EC2/S3/Lambda etc.
 #### Feel free to make Pull Requests stating why that particular resource should be added.
